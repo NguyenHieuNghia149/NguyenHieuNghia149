@@ -28,7 +28,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhieunghia149&show_icons=true&locale=en&layout=compact" alt="nguyenhieunghia149" /></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-
+<a href="https://github.com/NguyenHieuNghia149/NguyenHieuNghia149/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p>
