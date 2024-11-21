@@ -8,7 +8,6 @@
 <a href="https://www.leetcode.com/hieunghia484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hieunghia484" height="30" width="40" /></a>
 </p>
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -61,7 +60,6 @@
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
 
   </p>
-</details>
 
 
 <h3>💻 GitHub Profile Stats</h3>
