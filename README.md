@@ -28,4 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhieunghia149&show_icons=true&locale=en&layout=compact" alt="nguyenhieunghia149" /></p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p>
