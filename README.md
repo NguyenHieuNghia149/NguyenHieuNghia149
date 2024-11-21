@@ -26,10 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhieunghia149&show_icons=true&locale=en&layout=compact" alt="nguyenhieunghia149" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhieunghia149&show_icons=true&locale=en&layout=compact" alt="nguyenhieunghia149" /></p>
 
-<a href="https://github.com/NguyenHieuNghia149/NguyenHieuNghia149/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhieunghia149&show_icons=true&locale=en" alt="nguyenhieunghia149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p>
