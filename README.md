@@ -32,10 +32,4 @@
 <h3>🔥 Streak Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p>
 
- <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nguyenhieunghia149" src="https://github-readme-streak-stats-9m8ugfa77-nguyenhieunghia149.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+
