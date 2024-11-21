@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/NguyenHieuNghia149">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Nguyễn Hiếu Nghĩa" /></a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Nguyễn Hiếu Nghĩa</h1>
 <h3 align="center">A Student and Web Developer at HCMC University of Technology and Education – HCMUTE</h3>
