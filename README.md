@@ -72,6 +72,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nguyenhieunghia149" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nguyenhieunghia149&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <h3>🔥 Streak Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhieunghia149&" alt="nguyenhieunghia149" /></p
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenhieunghia149&theme=blood-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
