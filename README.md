@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Nguyễn Hiếu Nghĩa</h1>
-<h3 align="center">A Web Developer and student at HCMC University of Technology and Education – HCMUTE</h3>
+<h3 align="center">A Backend Developer and student at HCMC University of Technology and Education – HCMUTE</h3>
 
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **exciting development projects.**  
-- 🌱 I’m learning **new web technologies and frameworks** to stay ahead in the ever-evolving tech landscape.  
-- 💬 Ask me about **HTML, CSS, JavaScript, and modern web frameworks.** 
+- 🌱 I’m learning **new technologies and frameworks** to stay ahead in the ever-evolving tech landscape.  
+- 💬 Ask me about **JavaScript, Typescript, Node.js and modern web frameworks.** 
 
 
 <h3 align="left">Connect with me:</h3>
